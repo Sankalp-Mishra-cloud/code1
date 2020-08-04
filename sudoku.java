@@ -1,6 +1,6 @@
 /* A Backtracking program in 
 Java to solve Sudoku problem */
-class GFG { 
+class sudoku { 
 	public static boolean isSafe(int[][] board, 
 								int row, int col, 
 								int num) 
